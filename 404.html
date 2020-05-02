@@ -1,6 +1,6 @@
 <script>
   const path = window.location.pathname.slice(1);
-  localStorage.setItem('404-location', JSON.stringify(location))
+  localStorage.setItem('404-location', JSON.stringify(window.location.pathname + window.location.search))
   console.log(location);
   window.location.href = '../';
 </script>
