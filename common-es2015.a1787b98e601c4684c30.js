@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RuEM:function(e,c,n){"use strict";n.d(c,"a",(function(){return i}));var t=n("kt0X"),u=n("P7UJ"),a=n("OhRz");const i=Object(t.q)(u.c.activeBudgetSum,a.c.activeBudgetSum,(e,c)=>({incomeSum:e,expenseSum:c,balance:e-c}))}}]);
